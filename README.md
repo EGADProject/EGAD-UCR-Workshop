@@ -16,5 +16,7 @@
     *   [Course Mapping Handouts](Session 3 - Mapping and assessment/Course_mapping_handouts.pdf)
     *   [Guidelines for selecting assessment tools](Session 3 - Mapping and assessment/Guidelines for selecting assessment tools.pdf)
     *   [Evaluating a program as a committee](Session 3 - Mapping and assessment/Evaluating a program as committee.pdf)
+    <br>
 4. [Analysis and interpretation (*case study*)](Session 4 - Analyzing and interpreting/UCR Session 4.pdf)
+
 5.  [Process and planning (*discussion*)](Session 5 - Process and planning/UCR Session 5.pdf)
