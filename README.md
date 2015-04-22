@@ -18,4 +18,6 @@
     <br><br>
 4. [Analysis and interpretation (*case study*)](Session 4 - Analyzing and interpreting/UCR Session 4.pdf)
 
+    * [Data informed Improvement Workshop](Session 4 - Analyzing and interpreting/CPI Case Study v2.pdf)
+    <br><br>
 5.  [Process and planning (*discussion*)](Session 5 - Process and planning/UCR Session 5.pdf)
