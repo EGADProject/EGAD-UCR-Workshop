@@ -5,7 +5,7 @@
 
 ### April 22nd: **Day 1**
 
-1.  [Overview: The Big Picture]("Session 1 - The Big Picture/UCR Big Picture.pdf")
+1.  [Overview: The Big Picture](Session 1 - The Big Picture/UCR Big Picture.pdf)
 
 2.  [Goals, questions and outcomes (*working time*)][2]
 
