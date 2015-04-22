@@ -7,31 +7,21 @@
 
 ### April 22nd: **Day 1**
 
-1.  [Overview: The Big Picture][1]
+1.  [Overview: The Big Picture](Session 1 - The Big Picture/UCR Big Picture.pdf)
 
-2.  [Goals, questions and outcomes (*working time*)][2]
+2.  [Goals, questions and outcomes (*working time*)](Session 2 - Outcomes and indicators/UCR Session 2.pdf)
 
-    *   [Guidelines for making Indicators][3]
+    *   [Guidelines for making Indicators](Session 2 - Outcomes and indicators/Guidelines for making indicators.pdf)
 
-3.  [Curriculum mapping and assessment (*working time*)][4]
+3.  [Curriculum mapping and assessment (*working time*)](Session 3 - Mapping and assessment/UCR Session 3.pdf)
 
-    *   [Course Mapping Handouts][5]
-    *   [Guidelines for selecting assessment tools][6]
-    *   [Evaluating a program as a committee][7]
+    *   [Course Mapping Handouts](Session 3 - Mapping and assessment/Course_mapping_handouts.pdf)
+    *   [Guidelines for selecting assessment tools](Session 3 - Mapping and assessment/Guidelines for selecting assessment tools.pdf)
+    *   [Evaluating a program as a committee](Session 3 - Mapping and assessment/Evaluating a program as committee.pdf)
 
 * * *
 
 ### April 23rd: **Day 2**
 
-4.  [Analysis and interpretation (*case study*)][8]
-5.  [Process and planning (*discussion*)][9]
-
- [1]:'Session 1 - The Big Picture/UCR Big Picture.pdf'
- [2]:Session 2 - Outcomes and indicators/UCR Session 2.pdf
- [3]:Session 2 - Outcomes and indicators/Guidelines for making indicators.pdf
- [4]:Session 3 - Mapping and assessment/UCR Session 3.pdf
- [5]:Session 3 - Mapping and assessment/Course_mapping_handouts.pdf
- [6]:Session 3 - Mapping and assessment/Guidelines for selecting assessment tools.pdf
- [7]:Session 3 - Mapping and assessment/Evaluating a program as committee.pdf
- [8]:Session 4 - Analyzing and interpreting/UCR Session 4.pdf
- [9]:Session 5 - Process and planning/UCR Session 5.pdf
+4.  [Analysis and interpretation (*case study*)](Session 4 - Analyzing and interpreting/UCR Session 4.pdf)
+5.  [Process and planning (*discussion*)](Session 5 - Process and planning/UCR Session 5.pdf)
