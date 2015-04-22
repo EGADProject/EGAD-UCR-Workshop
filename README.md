@@ -26,12 +26,12 @@
 4.  [Analysis and interpretation (*case study*)][8]
 5.  [Process and planning (*discussion*)][9]
 
- [1]: Session 1 - The Big Picture/UCR Big Picture.pdf
- [2]: Session 2 - Outcomes and indicators/UCR Session 2.pdf
- [3]: Session 2 - Outcomes and indicators/Guidelines for making indicators.pdf
- [4]: Session 3 - Mapping and assessment/UCR Session 3.pdf
- [5]: Session 3 - Mapping and assessment/Course_mapping_handouts.pdf
- [6]: Session 3 - Mapping and assessment/Guidelines for selecting assessment tools.pdf
- [7]: Session 3 - Mapping and assessment/Evaluating a program as committee.pdf
- [8]: Session 4 - Analyzing and interpreting/UCR Session 4.pdf
- [9]: Session 5 - Process and planning/UCR Session 5.pdf
+ [1]:Session 1 - The Big Picture/UCR Big Picture.pdf
+ [2]:Session 2 - Outcomes and indicators/UCR Session 2.pdf
+ [3]:Session 2 - Outcomes and indicators/Guidelines for making indicators.pdf
+ [4]:Session 3 - Mapping and assessment/UCR Session 3.pdf
+ [5]:Session 3 - Mapping and assessment/Course_mapping_handouts.pdf
+ [6]:Session 3 - Mapping and assessment/Guidelines for selecting assessment tools.pdf
+ [7]:Session 3 - Mapping and assessment/Evaluating a program as committee.pdf
+ [8]:Session 4 - Analyzing and interpreting/UCR Session 4.pdf
+ [9]:Session 5 - Process and planning/UCR Session 5.pdf
