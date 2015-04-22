@@ -5,7 +5,7 @@
 
 ### April 22nd: **Day 1**
 
-1.  [Overview: The Big Picture][1]
+1.  [Overview: The Big Picture]("Session 1 - The Big Picture/UCR Big Picture.pdf")
 
 2.  [Goals, questions and outcomes (*working time*)][2]
 
@@ -23,7 +23,7 @@
 1.  Analysis and interpretation (*case study*)
 2.  Process and planning (*discussion*)
 
- [1]: "Session 1 - The Big Picture/UCR Big Picture.pdf"
+ [1]: Session 1 - The Big Picture/UCR Big Picture.pdf
  [2]: http://egad.engineering.queensu.ca/wp-content/documents/UCR%202015/UCR%20Session%202.pdf
  [3]: http://egad.engineering.queensu.ca/wp-content/documents/UCR%202015/Course_mapping_handouts.pdf
  [4]: http://egad.engineering.queensu.ca/wp-content/documents/UCR%202015/Guidelines%20for%20selecting%20assessment%20tools.pdf
