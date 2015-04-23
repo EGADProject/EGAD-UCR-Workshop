@@ -17,6 +17,7 @@
 
     *   [Course Mapping Handouts](Session 3 - Mapping and assessment/Course_mapping_handouts.pdf)
     *   [Guidelines for selecting assessment tools](Session 3 - Mapping and assessment/Guidelines for selecting assessment tools.pdf)
+    *   [2-Page Assessment Summary](Session 3 - Mapping and Assessment/assessment_2page_summary_April_2015.pdf)
     <br><br>
 4. [Analysis and interpretation (*case study*)](Session 4 - Analyzing and interpreting/UCR Session 4.pdf)
 
