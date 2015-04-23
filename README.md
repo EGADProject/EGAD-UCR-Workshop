@@ -8,12 +8,11 @@
 1.  [Overview: The Big Picture](Session 1 - The Big Picture/UCR Big Picture.pdf)
 
 2.  [Goals, questions and outcomes (*working time*)](Session 2 - Outcomes and indicators/UCR Session 2.pdf)
- 	  *   [Guidelines for making Indicators](Session 2 - Outcomes and indicators/Guidelines for making indicators.pdf)
 
+ 	  *   [Guidelines for making Indicators](Session 2 - Outcomes and indicators/Guidelines for making indicators.pdf)
     *   [Outcomes References (zip)](Session 2 - Outcomes and indicators/UCR Indicators.pdf)  
-    
     *   [UCR Developed Indicators](Session 2 - Outcomes and indicators/UCR Indicators.pdf)  
-     <br><br>
+<br>
 3.  [Curriculum mapping and assessment (*working time*)](Session 3 - Mapping and assessment/UCR Session 3.pdf)
 
     *   [Course Mapping Handouts](Session 3 - Mapping and assessment/Course_mapping_handouts.pdf)
