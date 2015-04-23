@@ -9,6 +9,8 @@
 
 2.  [Goals, questions and outcomes (*working time*)](Session 2 - Outcomes and indicators/UCR Session 2.pdf)
  	  *   [Guidelines for making Indicators](Session 2 - Outcomes and indicators/Guidelines for making indicators.pdf)
+    *   [Outcomes References (zip)](Session 2 - Outcomes and indicators/UCR Indicators.pdf)  
+    *   [UCR Developed Indicators](Session 2 - Outcomes and indicators/UCR Indicators.pdf)  
      <br><br>
 3.  [Curriculum mapping and assessment (*working time*)](Session 3 - Mapping and assessment/UCR Session 3.pdf)
 
